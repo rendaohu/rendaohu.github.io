@@ -1,7 +1,10 @@
-# rendaohu.github.io
-rendaohu website
+# My Website
+https://rendaohu.github.io/
 
-## Start Local Server
+# GitHub
+https://github.com/rendaohu/rendaohu.github.io
+
+# Start Local Server
 ```
 EKYLL_ENV=production bundle exec jekyll serve --trace
 ```
